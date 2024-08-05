@@ -1,0 +1,1 @@
+1. This model is used to predict how many days it will take to extinguish wildfires in united states.
